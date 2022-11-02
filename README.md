@@ -1,2 +1,2 @@
 # Codeforces-section-A
-this is only for A category probles
+this is only for A category problems
